@@ -4080,6 +4080,10 @@ a {
 .cid-vxnelvBU5R .content-head {
   max-width: 800px;
 }
+.cid-vxnelvBU5R .card-title,
+.cid-vxnelvBU5R .iconfont-wrapper {
+  text-align: center;
+}
 .cid-vibSF3BbMT {
   padding-top: 3rem;
   padding-bottom: 2rem;
