@@ -4120,6 +4120,33 @@ a {
 .cid-vau6ZWSWyG .media-container-row .mbr-text {
   color: #ffffff;
 }
+.cid-vAkb8W9jf0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
+}
+.cid-vAkb8W9jf0 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-vAkb8W9jf0 form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-vAkb8W9jf0 form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-vAkb8W9jf0 form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-vAkb8W9jf0 .content-head {
+  max-width: 800px;
+}
+.cid-vAkb8W9jf0 .mbr-section-title {
+  color: #92bc79;
+}
 .cid-tJS6tZXiPa {
   z-index: 1000;
   width: 100%;
